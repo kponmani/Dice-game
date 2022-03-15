@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: #0f0f0f;
+    
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: #f9f871;
+    font-size: 5rem;
+    font-weight: normal;
+   
+}
+footer {
+
+    color: white;
+}
+
+
+.container {
+    color: white;
+}
+
+p {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2rem;
+    display: block;
+    
+}
+
+.dice {
+
+    text-align: center;
+    display: inline-block;
+    padding: 0 5% 3%;
+    
+}
+
+
+
+
+                        
